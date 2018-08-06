@@ -13,16 +13,16 @@ The lists of tasks of the 3 users mentioned above are given below.<p>
 
 Task list of JobSeeker
 <p>
-<ul>
-<li>1.	Search for Jobs</li>
-<li>2.	Post Resume</li>
-<li>3.	Apply to Jobs</li>
-<li>4.	Build Resume</li>
-<li>5.	Update Resume</li>
-<li>6.	Respond to Interview schedule</li>
-<li>7.	View Application Status</li>
-<li>8.	View Resume Status</li>
-</ul>
+
+1.	Search for Jobs<br>
+2.	Post Resume<br>
+3.	Apply to Jobs<br>
+4.	Build Resume<br>
+5.	Update Resume<br>
+6.	Respond to Interview schedule<br>
+7.	View Application Status<br>
+8.	View Resume Status<br>
+
 <p>
 Task list of Recruiter
 <p>
