@@ -1,0 +1,119 @@
+/* CSS Document */
+
+
+BODY
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #FF0000; TEXT-DECORATION: underline
+}
+A:unknown {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+
+
+A.TP:link {
+	COLOR: #FFFFFF; TEXT-DECORATION: none
+}
+A.TP:active {
+	COLOR: #FFFFFF; TEXT-DECORATION: none
+}
+A.TP:visited {
+	COLOR: #FFFFFF; TEXT-DECORATION: none
+}
+A.TP:hover {
+	COLOR: #FFFFFF; TEXT-DECORATION: none
+}
+A.TP:unknown {
+	COLOR: #FFFFFF; TEXT-DECORATION: none
+}
+
+
+
+A.black:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.black:active {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.black:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.black:hover {
+	COLOR: #FF0000; TEXT-DECORATION: underline
+}
+A.black:unknown {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+
+
+A.blue:link {
+	COLOR: #0000FF; TEXT-DECORATION: none
+}
+A.blue:active {
+	COLOR: #0000FF; TEXT-DECORATION: none
+}
+A.blue:visited {
+	COLOR: #660099; TEXT-DECORATION: none
+}
+A.blue:hover {
+	COLOR: #FF0000; TEXT-DECORATION: underline
+}
+A.blue:unknown {
+	COLOR: #0000FF; TEXT-DECORATION: none
+}
+
+.Navigationpoints {
+	font-family: 'Arial', 'Verdana','Helvetica', 'sans-serif';	FONT-SIZE: 9pt; COLOR: #9C9C9C;
+}
+
+.smallfont {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10;
+}
+
+
+.smallestpoints {
+	font-family: 'Arial', 'Verdana','Helvetica', 'sans-serif';	FONT-SIZE: 7pt; LINE-HEIGHT: 16px; COLOR: #000000;
+}
+
+.smallerpoints {
+	font-family: 'Arial', 'Verdana','Helvetica', 'sans-serif';	FONT-SIZE: 8pt; LINE-HEIGHT: 17px; COLOR: #000000;
+}
+
+.smallerpointsRed {
+	font-family: 'Arial', 'Verdana','Helvetica', 'sans-serif';	FONT-SIZE: 8pt; LINE-HEIGHT: 17px; COLOR: #FF0000;
+}
+
+.smallpoints {
+	font-family: 'Arial', 'Verdana','Helvetica', 'sans-serif';	FONT-SIZE: 9pt; COLOR: #000000;
+}
+
+.smallpointsRed {
+	font-family: 'Arial', 'Verdana','Helvetica', 'sans-serif';	FONT-SIZE: 9pt; COLOR: #FF0000;
+}
+
+.points {
+	font-family: Arial, Helvetica, sans-serif;	FONT-SIZE: 10pt; COLOR: #000000;
+}
+
+.pointsRed {
+	font-family: Arial, Helvetica, sans-serif;	FONT-SIZE: 10pt; COLOR: #FF0000;
+}
+
+.12header {
+	font-family: Arial, Helvetica, sans-serif;	FONT-SIZE: 12pt;
+}
+
+.14header {
+	font-family: Arial, Helvetica, sans-serif;	FONT-SIZE: 14pt;
+}
+
